@@ -28,10 +28,9 @@
 
 # ✏️ Coisas que utilizo 📜
 
-- Isso inclui minhas experiencias com softwares também.
-- Nenhum suporte de sistemas meus será feito por meio de redes sociais privadas.
+- Isso inclui as minhas experiencias com softwares também.
+- Nenhum suporte dos meus sistemas será feito por meio de redes sociais privadas exceto discord e github.
 - Responderei mais rápido no WhatsApp, Github e Discord, no resto pode levar dias ou bem mais.
-- Para mais informações, basta clicar no ícone.
 
 ## 📚 Educação
 
