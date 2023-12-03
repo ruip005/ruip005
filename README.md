@@ -153,6 +153,9 @@
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
     </a>
+    <a href="https://www.typescriptlang.org">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
+    </a>
     <a href="https://www.json.org">
         <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C?logo=json&logoColor=white&style=for-the-badge"/>
     </a>
