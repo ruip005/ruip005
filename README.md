@@ -1,6 +1,7 @@
+<img src="https://camo.githubusercontent.com/364f96df13e45b939120b840ce35a3186d25474be1fa241c97d0d3501f87b820/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f636f6c6f723d3032393046462673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d31303030266c696e65733d48656c6c6f2b74686572652b2546302539462539312538423b"/>
+</br>
 <h1 align="center">
 	Olá, o meu nome é Rui, mais conhecido como uW33D ou ruip005
-	<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 </h1>
 <p align="center">
     <img src="https://media.giphy.com/media/zQQBpOzpGQxAqutlLz/giphy-downsized-large.gif" width="350" height="350" alt="https://github.com/ruip005"/>
