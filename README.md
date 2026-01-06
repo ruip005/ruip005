@@ -4,7 +4,7 @@
 <p align="center">
 Backend / Fullstack Developer
 <br>
-	APIs, SaaS, Game Servers, Automation
+	APIs, SaaS, Servers, Automation
 <br>
 <img src="https://media.giphy.com/media/zQQBpOzpGQxAqutlLz/giphy-downsized-large.gif" width="350" height="350" alt="https://github.com/ruip005"/>
 </p>
