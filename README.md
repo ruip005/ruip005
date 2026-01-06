@@ -53,17 +53,6 @@ Backend / Fullstack Developer
 | ![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=Udemy&logoColor=white) | IT Security Specialist | Fev 2023 | [Certification](https://www.udemy.com/certificate/UC-f1d1cae7-1ab0-409d-959a-28a6a9781a2c/) |
 
 
-## 📚 Educação
-
-<p>
-    <a href="https://www.udemy.com">
-        <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
-    </a>
-    <a href="https://youtube.com">
-        <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
-    </a>
-</p>
-
 ## ⚡ Databases
 
 <p>
