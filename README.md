@@ -25,7 +25,7 @@ Backend / Fullstack Developer
 # ✏️ Coisas que utilizo 📜
 
 - Isso inclui as minhas experiencias com softwares também.
-- Desenvolvo APIs escaláveis em Node.js, não crio APIs em Java apenas em Node.js em JS ou TS.
+- Desenvolvo APIs escaláveis em Node.js, não crio APIs em Java Spring apenas em Node.js em JS ou TS.
 - Crio plataformas SaaS e sistemas de autenticação (Fullstack)
 - Trabalho com Docker para ambientes consistentes
 - Integro bases de dados SQL e NoSQL 
@@ -35,8 +35,6 @@ Backend / Fullstack Developer
 
 | Empresa | Certificação | Data | Endereço |
 |---------|-------------|------|--------|
-| ![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=Udemy&logoColor=white) | Automação com n8n e Agentes de IA | Jan 2026 | [Certification](https://www.udemy.com/certificate/UC-ca3e76b6-9ab6-49e1-9696-b65e33920a1d/) |
-| ![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=Udemy&logoColor=white) | Fundamentos do n8n e Agentes de IA | Dez 2025 | [Certification](https://www.udemy.com/certificate/UC-5da72e94-dcdb-4da6-a581-8c12d130edcc/) |
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | Agentic AI Essentials - Training Badge | Nov 2025 | [Certification](https://www.credly.com/badges/05eae544-9eef-4a6b-8cc5-638523052351/linked_in_profile) |
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | Cloud Economics Essentials - Training Badge | Nov 2025 | [Certification](https://www.credly.com/badges/88b9fdf9-a627-4391-a54f-fb1a53ec4f27/linked_in_profile) |
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | AWS Partner: Generative AI Sales - Training Badge | Nov 2025 | [Certification](https://www.credly.com/badges/53b22371-5395-4934-a742-3f8ba05c8723/linked_in_profile) |
@@ -51,6 +49,8 @@ Backend / Fullstack Developer
 | ![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=Udemy&logoColor=white) | Ethical Hacking | Jul 2022 | [Certification](https://www.udemy.com/certificate/UC-53f0abf7-a5fc-4992-a4b2-b14269aa98e8/) |
 | ![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=Udemy&logoColor=white) | Ataque Negação de Serviço (DoS e DDoS) | Fev 2023 | [Certification](https://www.udemy.com/certificate/UC-3edef5f5-89d2-4f0c-a1d3-33170be23a52/) |
 | ![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=Udemy&logoColor=white) | IT Security Specialist | Fev 2023 | [Certification](https://www.udemy.com/certificate/UC-f1d1cae7-1ab0-409d-959a-28a6a9781a2c/) |
+| ![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=Udemy&logoColor=white) | Automação com n8n e Agentes de IA | Jan 2026 | [Certification](https://www.udemy.com/certificate/UC-ca3e76b6-9ab6-49e1-9696-b65e33920a1d/) |
+| ![Udemy](https://img.shields.io/badge/Udemy-FF0000?style=for-the-badge&logo=Udemy&logoColor=white) | Fundamentos do n8n e Agentes de IA | Dez 2025 | [Certification](https://www.udemy.com/certificate/UC-5da72e94-dcdb-4da6-a581-8c12d130edcc/) |
 
 
 ## ⚡ Databases
