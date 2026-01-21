@@ -134,9 +134,9 @@ Backend / Fullstack Developer
   <img alt="Google Cloud | Active" src="https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img alt="AWS | Active" src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&logo=aws&logoColor=white"/>
   <img alt="Azure | Active" src="https://img.shields.io/badge/Azure-Learning-0078D6?style=for-the-badge&logo=azure&logoColor=white"/>
-  <img alt="WebSocket | Frequent" src="https://img.shields.io/badge/WebSocket-Frequent-007ACC?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img alt="WebSocket | Learning" src="https://img.shields.io/badge/WebSocket-Frequent-007ACC?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img alt="API | Frequent" src="https://img.shields.io/badge/API-Frequent-00BFA5?style=for-the-badge&logo=strapi&logoColor=white"/>
-  <img alt="Webhook | Frequent" src="https://img.shields.io/badge/Webhook-Frequent-FF6C37?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+  <img alt="Webhook | Learning" src="https://img.shields.io/badge/Webhook-Frequent-FF6C37?style=for-the-badge&logo=reacthookform&logoColor=white"/>
 </p>
 
 ## 🏆 Troféus
