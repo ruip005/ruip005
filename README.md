@@ -35,6 +35,7 @@ Backend / Fullstack Developer
 
 | Empresa | Certificação | Data | Endereço |
 |---------|-------------|------|--------|
+| ![OutSystems](https://img.shields.io/badge/OutSystems-FF0000?style=for-the-badge&logo=outsystems&logoColor=white) | Associate Developer (ODC) | Mar 2026 | [Certification](https://www.outsystems.com/profile/r1x60t7xy9/learn) |
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | Agentic AI Essentials - Training Badge | Nov 2025 | [Certification](https://www.credly.com/badges/05eae544-9eef-4a6b-8cc5-638523052351/linked_in_profile) |
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | Cloud Economics Essentials - Training Badge | Nov 2025 | [Certification](https://www.credly.com/badges/88b9fdf9-a627-4391-a54f-fb1a53ec4f27/linked_in_profile) |
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | AWS Partner: Generative AI Sales - Training Badge | Nov 2025 | [Certification](https://www.credly.com/badges/53b22371-5395-4934-a742-3f8ba05c8723/linked_in_profile) |
